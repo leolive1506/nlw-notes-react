@@ -2,9 +2,7 @@
 Um aplicativo desenvolvido em React, onde o usuário pode criar uma nota escrevendo ou por meio de gravação de áudio
 
 ## Demonstração
-<video width="320" height="240" controls >
-  <source src="./video.webm" type="video/webm" markdown="1">
-</video>
+[video.webm](https://github.com/leolive1506/nlw-notes-react/assets/89431704/ddf2c261-77dd-4d67-a520-5a67471df05d)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-leo-santam.vercel.app/)
